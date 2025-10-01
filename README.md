@@ -2,3 +2,4 @@
 "박민서"
 "20221050"
 "Project 02 completed"
+"final Project 02 completed"
